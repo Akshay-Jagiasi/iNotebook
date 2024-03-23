@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb://localhost:27017/cloudNotebookFinal';
+const mongoURI = '';//<---apna mongo uri upload kar
 
 const connectToMongo = () => {
     mongoose.connect(mongoURI, () => {
