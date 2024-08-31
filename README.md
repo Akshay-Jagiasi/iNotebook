@@ -10,5 +10,10 @@
 
 ## CRUD Functionalities
 ![iNotebook page 1](https://github.com/user-attachments/assets/91c870d9-51c9-4320-ba22-8f234dad9a55)
-![inotebook page 2](https://github.com/user-attachments/assets/2c2b8dab-19f7-4cb0-a453-795495d01d94)
+![notebook about page](https://github.com/user-attachments/assets/b70d28f5-489b-4f76-9b64-3e2f0f61f4b5)
+
+## MCQ Generator
+![Notebook Mcq generator](https://github.com/user-attachments/assets/8f616a4d-257b-4ac9-b019-71bb1101ea40)
+
+
 
